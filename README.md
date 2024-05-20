@@ -1,5 +1,5 @@
-### Hi there 👋
-### I'm Mahnoor. I'm a mechanical engineer and I'm interested in robotics and AI.
+### "Hello world" 👋
+### I'm Mahnoor. I love coding and I'm super interested in robotics and AI.
 
 ---
 
