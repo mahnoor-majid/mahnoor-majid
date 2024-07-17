@@ -1,9 +1,6 @@
 ### Hi there!
 ### 
 
-<div id="header" align="center">
-  <img src="https://giphy.com/gifs/Pluralsight-computer-technology-coding-L1R1tvI9svkIWwpVYr" width="100"/>
-</div>
 ---
 
 ### :hammer_and_wrench: Languages and Tools :
@@ -19,3 +16,5 @@
   <img src = "https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" title="Java" alt="Java" width="60" height="60"/>
  
 </div>
+
+<!-- https://www.sitepoint.com/github-profile-readme/ -->
